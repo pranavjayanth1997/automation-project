@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="9" passed="9" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-07-26T21:05:32 IST" name="Default suite" finished-at="2022-07-26T21:07:20 IST" duration-ms="107702">
+    <groups>
+    </groups>
+    <test started-at="2022-07-26T21:05:32 IST" name="Default test" finished-at="2022-07-26T21:07:20 IST" duration-ms="107702">
+      <class name="Pom.Mainclss">
+        <test-method signature="contact_us(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:Pom.Mainclss@7adda9cc]" started-at="2022-07-26T21:05:32 IST" name="contact_us" data-provider="getContactUs" finished-at="2022-07-26T21:05:56 IST" duration-ms="24336" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[tester1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[tester1@gmail.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[876543567]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[hi guyss]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- contact_us -->
+        <test-method signature="contact_us(java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:Pom.Mainclss@7adda9cc]" started-at="2022-07-26T21:05:56 IST" name="contact_us" data-provider="getContactUs" finished-at="2022-07-26T21:06:20 IST" duration-ms="23036" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[tester2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[tester2@gmail.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[871345543567]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[hello guyss]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- contact_us -->
+        <test-method signature="mb(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:Pom.Mainclss@7adda9cc]" started-at="2022-07-26T21:06:20 IST" name="mb" data-provider="signup" finished-at="2022-07-26T21:06:30 IST" duration-ms="10937" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[tester1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[12]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[tester1@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[tester1@123]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[1243567890]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[i am tester1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mb -->
+        <test-method signature="mb(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:Pom.Mainclss@7adda9cc]" started-at="2022-07-26T21:06:30 IST" name="mb" data-provider="signup" finished-at="2022-07-26T21:06:38 IST" duration-ms="7126" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[tester2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[13]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[tester2@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[tester2@123]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[1243567890]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[i am tester2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mb -->
+        <test-method signature="support(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:Pom.Mainclss@7adda9cc]" started-at="2022-07-26T21:06:38 IST" name="support" data-provider="getSupport" finished-at="2022-07-26T21:06:48 IST" duration-ms="10721" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[tester]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[ms]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[test@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[test@123]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[1234567891]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[bengaluru]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[bengaluru]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[benagaluru]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[57121]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[2]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- support -->
+        <test-method signature="support(java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String,java.lang.String)[pri:0, instance:Pom.Mainclss@7adda9cc]" started-at="2022-07-26T21:06:48 IST" name="support" data-provider="getSupport" finished-at="2022-07-26T21:07:01 IST" duration-ms="12425" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[tester1]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[ms]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[test1@gmail.com]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[test1@123]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[8747078588]]>
+              </value>
+            </param>
+            <param index="5">
+              <value>
+                <![CDATA[malavalli]]>
+              </value>
+            </param>
+            <param index="6">
+              <value>
+                <![CDATA[malavalli]]>
+              </value>
+            </param>
+            <param index="7">
+              <value>
+                <![CDATA[mandya]]>
+              </value>
+            </param>
+            <param index="8">
+              <value>
+                <![CDATA[571430]]>
+              </value>
+            </param>
+            <param index="9">
+              <value>
+                <![CDATA[1]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- support -->
+        <test-method signature="mb(java.lang.String,java.lang.String)[pri:2, instance:Pom.Mainclss@7adda9cc]" started-at="2022-07-26T21:07:01 IST" name="mb" data-provider="Signin" finished-at="2022-07-26T21:07:07 IST" duration-ms="6275" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[tester]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[tester@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mb -->
+        <test-method signature="mb(java.lang.String,java.lang.String)[pri:2, instance:Pom.Mainclss@7adda9cc]" started-at="2022-07-26T21:07:07 IST" name="mb" data-provider="Signin" finished-at="2022-07-26T21:07:14 IST" duration-ms="6480" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[tester2]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[tester2@123]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mb -->
+        <test-method signature="allmobiles(java.lang.String)[pri:3, instance:Pom.Mainclss@7adda9cc]" started-at="2022-07-26T21:07:14 IST" name="allmobiles" data-provider="getAllmobiles" finished-at="2022-07-26T21:07:20 IST" duration-ms="6224" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[samsung]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- allmobiles -->
+      </class> <!-- Pom.Mainclss -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
